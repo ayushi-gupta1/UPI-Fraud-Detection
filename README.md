@@ -117,4 +117,7 @@ python app.py
 ## 🏁 Conclusion
 This project brings together ML, backend development, frontend UI, fraud analytics, and real-time prediction—making it ideal for academic or real-world fintech learning.
 
+## Contribution
+Contributed to this project as a collaborator, worked on implementation and improvements.
+
 
